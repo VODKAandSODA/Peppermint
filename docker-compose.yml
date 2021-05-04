@@ -24,7 +24,7 @@ services:
         indexedParameterDefinitions:
             - position: 0
               type: ADDRESS
-            - position: 0
+            - position: 1
               type: UINT256
         correlationId:
           type: NON_INDEXED_PARAMETER
